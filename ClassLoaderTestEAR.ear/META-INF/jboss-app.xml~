@@ -1,0 +1,5 @@
+<jboss-app>
+   <loader-repository> 
+      org.test.loader=ClassLoaderTest_One.ear
+   </loader-repository> 
+</jboss-app>
